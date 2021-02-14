@@ -1,0 +1,12 @@
+.containerHistory {
+  width: 500px;
+  height: 160px;
+  overflow-y: auto;
+}
+
+.questionAnswer {
+  background: lightblue;
+  padding-bottom: 5px;
+  border-color: black;
+  border: 1px 1px 1p 1px;
+}
